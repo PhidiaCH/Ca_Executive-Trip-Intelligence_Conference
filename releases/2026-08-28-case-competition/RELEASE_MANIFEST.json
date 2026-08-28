@@ -1,0 +1,11 @@
+{
+  "version": "2026-08-28-case-competition",
+  "artifact": "VPO_高階行政決策工作流_個案競賽版_12+5頁.pptx",
+  "slide_count": 17,
+  "structure": "12 main + 5 Q&A Backup",
+  "sha256": "85c265a0e93cd25073b6c82988fe54c7274031dbcfddb80ae0dfbe88a56454f0",
+  "bytes": 291290,
+  "public_anonymized": true,
+  "binary_upload_status": "NOT_UPLOADED_CONNECTOR_LIMIT",
+  "source_of_truth": "DECK_SOURCE.md + SPEAKER_SCRIPT_SOURCE.md + RELEASE_MANIFEST.json"
+}
